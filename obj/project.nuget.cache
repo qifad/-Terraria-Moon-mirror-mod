@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVZIsQr8modVmY/UTEGYZhg+d6uJKyD9XqUP6cii3sitelVAZ/Ah8OHEymy05l4hz21+3pz9599NPjygmB6YXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator.DESKTOP-MU6D4L0\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tewd\\tewd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator.DESKTOP-MU6D4L0\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
